@@ -1,6 +1,6 @@
 cask "frely-app" do
-  version "0.2.1"
-  sha256 "6ed9c19148c2c4bd04f05d4d99c1f8a421b93f1a2cb88fb5f1c48975edf9e7ad"
+  version "0.2.2"
+  sha256 "5edd6e5ccacf9e1cfae3e09b10ea37d32eea55eeef725050b65c767ba4791e55"
 
   url "https://github.com/FrelyHQ/frely-cli/releases/download/frely-app-v#{version}/Frely-App-#{version}-macOS-arm64-ad-hoc-preview.zip"
   name "Frely App"
